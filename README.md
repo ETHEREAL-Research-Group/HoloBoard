@@ -10,7 +10,7 @@ This repository contains a Unity 2021 package designed to be used with MRTK2, Un
 
 <ol>
     <li> Create a Unity 2021.3.4f or later project. </li>
-    <li> Install the dependencies: <li>
+    <li> Install the dependencies: </li>
     <ul>
         <li> https://github.com/microsoft/MixedRealityToolkit-Unity </li>
         <li> https://docs-multiplayer.unity3d.com/netcode/current/installation/index.html </li>
