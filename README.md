@@ -1,6 +1,6 @@
-# From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autistic Individuals with the HoloBoard.
-
 ![HoloBoard banner](/Banner.jpg "HoloBoard")
+
+# From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autistic Individuals with the HoloBoard.
 
 Welcome to the accompanying repository for the ACM Digital Library Paper (link pending). You can find the Tableau page for accompanying data set [HERE](https://public.tableau.com/app/profile/lorans.alabood/viz/Dashboardproject_17085671823810/HoloBoard2022-2023).
 
