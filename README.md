@@ -2,7 +2,7 @@
 
 # From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autistic Individuals with the HoloBoard.
 
-Welcome to the accompanying repository for the ACM Digital Library Paper (link pending). You can find the Tableau page for accompanying data set [HERE](https://public.tableau.com/app/profile/lorans.alabood/viz/Dashboardproject_17085671823810/HoloBoard2022-2023).
+Welcome to the accompanying repository for the ACM Digital Library Paper (link pending). You can find the data set's Tableau page [HERE](https://public.tableau.com/app/profile/lorans.alabood/viz/Dashboardproject_17085671823810/HoloBoard2022-2023).
 
 This repository contains a Unity 2021 package designed to be used with MRTK2, Unity Netcode for GameObjects, and Microsoft Azure Spatial Anchors that allows for quickly and easily synchronizing and sharing a real-time multi-user experience for Augmented Reality devices.
 
